@@ -1,0 +1,231 @@
+text,intent,confidence
+"Where is my order?",order_status,0.77
+"When will my package arrive?",order_status,0.91
+"Track my order please",order_status,0.75
+"Order tracking update needed",order_status,0.83
+"Has my order shipped yet?",order_status,0.9
+"I want to return this product",return_request,0.82
+"How do I initiate a return?",return_request,0.94
+"Return policy for electronics",return_request,0.79
+"Can I return after 7 days?",return_request,0.95
+"Return pickup scheduling",return_request,0.81
+"When will I get my refund?",refund_enquiry,0.79
+"Refund not received yet",refund_enquiry,0.85
+"Refund status update",refund_enquiry,0.82
+"Money not credited back",refund_enquiry,0.75
+"How long does refund take?",refund_enquiry,0.89
+"My order is delayed",delivery_delay,0.86
+"Expected delivery was yesterday",delivery_delay,0.87
+"Package not delivered on time",delivery_delay,0.75
+"Delivery date passed no update",delivery_delay,0.8
+"Late shipment complaint",delivery_delay,0.93
+"Is this product available in blue?",product_query,0.79
+"Size chart for shirts",product_query,0.79
+"Product specifications",product_query,0.87
+"Compatible accessories",product_query,0.81
+"Stock availability query",product_query,0.77
+"Very bad experience",complaint,0.91
+"Wrong item delivered",complaint,0.78
+"Damaged product received",complaint,0.84
+"Poor quality product",complaint,0.75
+"I am very unhappy with service",complaint,0.86
+"Sample message 0 about delivery_delay",delivery_delay,0.86
+"Sample message 1 about delivery_delay",delivery_delay,0.75
+"Sample message 2 about refund_enquiry",refund_enquiry,0.82
+"Sample message 3 about return_request",return_request,0.81
+"Sample message 4 about delivery_delay",delivery_delay,0.96
+"Sample message 5 about complaint",complaint,0.74
+"Sample message 6 about product_query",product_query,0.86
+"Sample message 7 about product_query",product_query,0.94
+"Sample message 8 about refund_enquiry",refund_enquiry,0.89
+"Sample message 9 about order_status",order_status,0.88
+"Sample message 10 about delivery_delay",delivery_delay,0.83
+"Sample message 11 about delivery_delay",delivery_delay,0.74
+"Sample message 12 about refund_enquiry",refund_enquiry,0.82
+"Sample message 13 about order_status",order_status,0.94
+"Sample message 14 about product_query",product_query,0.96
+"Sample message 15 about order_status",order_status,0.86
+"Sample message 16 about product_query",product_query,0.95
+"Sample message 17 about return_request",return_request,0.76
+"Sample message 18 about product_query",product_query,0.94
+"Sample message 19 about refund_enquiry",refund_enquiry,0.9
+"Sample message 20 about return_request",return_request,0.73
+"Sample message 21 about complaint",complaint,0.71
+"Sample message 22 about return_request",return_request,0.77
+"Sample message 23 about return_request",return_request,0.91
+"Sample message 24 about product_query",product_query,0.73
+"Sample message 25 about product_query",product_query,0.87
+"Sample message 26 about refund_enquiry",refund_enquiry,0.84
+"Sample message 27 about complaint",complaint,0.92
+"Sample message 28 about return_request",return_request,0.93
+"Sample message 29 about delivery_delay",delivery_delay,0.82
+"Sample message 30 about return_request",return_request,0.86
+"Sample message 31 about complaint",complaint,0.81
+"Sample message 32 about order_status",order_status,0.99
+"Sample message 33 about return_request",return_request,0.83
+"Sample message 34 about complaint",complaint,0.83
+"Sample message 35 about refund_enquiry",refund_enquiry,0.94
+"Sample message 36 about return_request",return_request,0.85
+"Sample message 37 about complaint",complaint,0.7
+"Sample message 38 about refund_enquiry",refund_enquiry,0.73
+"Sample message 39 about delivery_delay",delivery_delay,0.71
+"Sample message 40 about product_query",product_query,0.79
+"Sample message 41 about complaint",complaint,0.88
+"Sample message 42 about return_request",return_request,0.71
+"Sample message 43 about product_query",product_query,0.95
+"Sample message 44 about complaint",complaint,0.97
+"Sample message 45 about product_query",product_query,0.86
+"Sample message 46 about return_request",return_request,0.96
+"Sample message 47 about return_request",return_request,0.88
+"Sample message 48 about complaint",complaint,0.83
+"Sample message 49 about complaint",complaint,0.98
+"Sample message 50 about delivery_delay",delivery_delay,0.84
+"Sample message 51 about delivery_delay",delivery_delay,0.72
+"Sample message 52 about complaint",complaint,0.86
+"Sample message 53 about product_query",product_query,0.73
+"Sample message 54 about complaint",complaint,0.98
+"Sample message 55 about refund_enquiry",refund_enquiry,0.98
+"Sample message 56 about complaint",complaint,0.71
+"Sample message 57 about order_status",order_status,0.97
+"Sample message 58 about delivery_delay",delivery_delay,0.7
+"Sample message 59 about order_status",order_status,0.85
+"Sample message 60 about product_query",product_query,0.83
+"Sample message 61 about delivery_delay",delivery_delay,0.89
+"Sample message 62 about return_request",return_request,0.85
+"Sample message 63 about delivery_delay",delivery_delay,0.91
+"Sample message 64 about return_request",return_request,0.98
+"Sample message 65 about product_query",product_query,0.81
+"Sample message 66 about return_request",return_request,0.83
+"Sample message 67 about delivery_delay",delivery_delay,0.84
+"Sample message 68 about complaint",complaint,0.87
+"Sample message 69 about product_query",product_query,0.85
+"Sample message 70 about return_request",return_request,0.8
+"Sample message 71 about refund_enquiry",refund_enquiry,0.9
+"Sample message 72 about complaint",complaint,0.79
+"Sample message 73 about return_request",return_request,0.87
+"Sample message 74 about complaint",complaint,0.75
+"Sample message 75 about delivery_delay",delivery_delay,0.95
+"Sample message 76 about product_query",product_query,0.86
+"Sample message 77 about product_query",product_query,0.77
+"Sample message 78 about product_query",product_query,0.72
+"Sample message 79 about return_request",return_request,0.75
+"Sample message 80 about delivery_delay",delivery_delay,0.84
+"Sample message 81 about complaint",complaint,0.71
+"Sample message 82 about refund_enquiry",refund_enquiry,0.84
+"Sample message 83 about order_status",order_status,0.72
+"Sample message 84 about return_request",return_request,0.86
+"Sample message 85 about order_status",order_status,0.86
+"Sample message 86 about delivery_delay",delivery_delay,0.97
+"Sample message 87 about return_request",return_request,0.86
+"Sample message 88 about delivery_delay",delivery_delay,0.88
+"Sample message 89 about refund_enquiry",refund_enquiry,0.85
+"Sample message 90 about order_status",order_status,0.98
+"Sample message 91 about refund_enquiry",refund_enquiry,0.7
+"Sample message 92 about product_query",product_query,0.94
+"Sample message 93 about refund_enquiry",refund_enquiry,0.99
+"Sample message 94 about refund_enquiry",refund_enquiry,0.97
+"Sample message 95 about product_query",product_query,0.92
+"Sample message 96 about delivery_delay",delivery_delay,0.84
+"Sample message 97 about return_request",return_request,0.88
+"Sample message 98 about delivery_delay",delivery_delay,0.7
+"Sample message 99 about return_request",return_request,0.94
+"Sample message 100 about complaint",complaint,0.76
+"Sample message 101 about refund_enquiry",refund_enquiry,0.9
+"Sample message 102 about refund_enquiry",refund_enquiry,0.88
+"Sample message 103 about refund_enquiry",refund_enquiry,0.7
+"Sample message 104 about return_request",return_request,0.95
+"Sample message 105 about delivery_delay",delivery_delay,0.88
+"Sample message 106 about refund_enquiry",refund_enquiry,0.82
+"Sample message 107 about return_request",return_request,0.76
+"Sample message 108 about delivery_delay",delivery_delay,0.93
+"Sample message 109 about delivery_delay",delivery_delay,0.84
+"Sample message 110 about complaint",complaint,0.7
+"Sample message 111 about return_request",return_request,0.73
+"Sample message 112 about refund_enquiry",refund_enquiry,0.89
+"Sample message 113 about return_request",return_request,0.7
+"Sample message 114 about return_request",return_request,0.92
+"Sample message 115 about return_request",return_request,0.89
+"Sample message 116 about refund_enquiry",refund_enquiry,0.93
+"Sample message 117 about refund_enquiry",refund_enquiry,0.99
+"Sample message 118 about refund_enquiry",refund_enquiry,0.94
+"Sample message 119 about delivery_delay",delivery_delay,0.98
+"Sample message 120 about complaint",complaint,0.77
+"Sample message 121 about delivery_delay",delivery_delay,0.76
+"Sample message 122 about complaint",complaint,0.72
+"Sample message 123 about delivery_delay",delivery_delay,0.8
+"Sample message 124 about product_query",product_query,0.97
+"Sample message 125 about return_request",return_request,0.72
+"Sample message 126 about complaint",complaint,0.89
+"Sample message 127 about complaint",complaint,0.97
+"Sample message 128 about complaint",complaint,0.74
+"Sample message 129 about refund_enquiry",refund_enquiry,0.84
+"Sample message 130 about complaint",complaint,0.95
+"Sample message 131 about refund_enquiry",refund_enquiry,0.75
+"Sample message 132 about order_status",order_status,0.94
+"Sample message 133 about complaint",complaint,0.71
+"Sample message 134 about delivery_delay",delivery_delay,0.87
+"Sample message 135 about complaint",complaint,0.83
+"Sample message 136 about order_status",order_status,0.94
+"Sample message 137 about order_status",order_status,0.94
+"Sample message 138 about refund_enquiry",refund_enquiry,0.7
+"Sample message 139 about order_status",order_status,0.97
+"Sample message 140 about return_request",return_request,0.71
+"Sample message 141 about order_status",order_status,0.76
+"Sample message 142 about refund_enquiry",refund_enquiry,0.97
+"Sample message 143 about refund_enquiry",refund_enquiry,0.72
+"Sample message 144 about order_status",order_status,0.82
+"Sample message 145 about delivery_delay",delivery_delay,0.72
+"Sample message 146 about product_query",product_query,0.91
+"Sample message 147 about refund_enquiry",refund_enquiry,0.88
+"Sample message 148 about complaint",complaint,0.86
+"Sample message 149 about complaint",complaint,0.8
+"Sample message 150 about product_query",product_query,0.73
+"Sample message 151 about refund_enquiry",refund_enquiry,0.72
+"Sample message 152 about refund_enquiry",refund_enquiry,0.84
+"Sample message 153 about order_status",order_status,0.7
+"Sample message 154 about order_status",order_status,0.83
+"Sample message 155 about refund_enquiry",refund_enquiry,0.93
+"Sample message 156 about complaint",complaint,0.91
+"Sample message 157 about complaint",complaint,0.72
+"Sample message 158 about product_query",product_query,0.97
+"Sample message 159 about product_query",product_query,0.88
+"Sample message 160 about delivery_delay",delivery_delay,0.86
+"Sample message 161 about complaint",complaint,0.79
+"Sample message 162 about product_query",product_query,0.88
+"Sample message 163 about return_request",return_request,0.73
+"Sample message 164 about product_query",product_query,0.76
+"Sample message 165 about return_request",return_request,0.92
+"Sample message 166 about return_request",return_request,0.71
+"Sample message 167 about order_status",order_status,0.98
+"Sample message 168 about order_status",order_status,0.85
+"Sample message 169 about product_query",product_query,0.72
+"Sample message 170 about delivery_delay",delivery_delay,0.73
+"Sample message 171 about return_request",return_request,0.75
+"Sample message 172 about return_request",return_request,0.77
+"Sample message 173 about refund_enquiry",refund_enquiry,0.92
+"Sample message 174 about return_request",return_request,0.83
+"Sample message 175 about order_status",order_status,0.91
+"Sample message 176 about complaint",complaint,0.86
+"Sample message 177 about complaint",complaint,0.8
+"Sample message 178 about refund_enquiry",refund_enquiry,0.91
+"Sample message 179 about order_status",order_status,0.92
+"Sample message 180 about order_status",order_status,0.7
+"Sample message 181 about delivery_delay",delivery_delay,0.82
+"Sample message 182 about refund_enquiry",refund_enquiry,0.95
+"Sample message 183 about order_status",order_status,0.83
+"Sample message 184 about return_request",return_request,0.88
+"Sample message 185 about order_status",order_status,0.89
+"Sample message 186 about delivery_delay",delivery_delay,0.77
+"Sample message 187 about delivery_delay",delivery_delay,0.89
+"Sample message 188 about product_query",product_query,0.99
+"Sample message 189 about refund_enquiry",refund_enquiry,0.95
+"Sample message 190 about return_request",return_request,0.94
+"Sample message 191 about delivery_delay",delivery_delay,0.71
+"Sample message 192 about return_request",return_request,0.96
+"Sample message 193 about refund_enquiry",refund_enquiry,0.8
+"Sample message 194 about product_query",product_query,0.74
+"Sample message 195 about return_request",return_request,0.89
+"Sample message 196 about delivery_delay",delivery_delay,0.81
+"Sample message 197 about order_status",order_status,0.82
+"Sample message 198 about return_request",return_request,0.81
+"Sample message 199 about refund_enquiry",refund_enquiry,0.85
